@@ -1,4 +1,4 @@
 Module 2: Java Core:
 Buổi 2: Thứ 5 - 08/05/2025: OOP (Kế thừa và đóng gói)
 Buổi 3: Thứ 7 - 10/05/2025: OOP (trừu tượng và đa hình)
-Buổi 4: 
+Buổi 4: Thứ 3 - 14/05/2025: Đọc, ghi file csv, txt, log.
