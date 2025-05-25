@@ -1,4 +1,13 @@
 Module 2: Java Core:
 Buổi 2: Thứ 5 - 08/05/2025: OOP (Kế thừa và đóng gói)
 Buổi 3: Thứ 7 - 10/05/2025: OOP (trừu tượng và đa hình)
-Buổi 4: Thứ 3 - 14/05/2025: Đọc, ghi file csv, txt, log.
+Buổi 4: Thứ 3 - 13/05/2025: Đọc, ghi file csv, txt, log.
+Buổi 5: Thứ 5 - 15/05/2025: Luyện tập OOP, Design Pattern 
+(Singleton, Factory Method, Abstract Factory)
+Buổi 6: Thứ 7 - 17/05/2025: Design Pattern
+(Builder, Prototype)
+
+--- Đợt này nghỉ 2 buổi:
+thứ 3 - 20/05/2025 và thứ 5 - 22/05/2025
+
+Buổi 7: Thứ 7 - 24/05/2025: Design pattern (Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy).
